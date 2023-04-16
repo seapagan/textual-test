@@ -9,6 +9,8 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.9"
 textual = {extras = ["dev"], version = "^0.19.1"}
+fastapi = "^0.95.1"
+uvicorn = {extras = ["standard"], version = "^0.21.1"}
 
 
 [tool.poetry.group.dev.dependencies]
