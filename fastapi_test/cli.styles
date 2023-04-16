@@ -1,0 +1,4 @@
+ControlButtons {
+  layout: horizontal;
+  margin: 1;
+}
